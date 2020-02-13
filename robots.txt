@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://dootuyata.minifesto.org/sitemap.xml
